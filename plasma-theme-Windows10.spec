@@ -1,7 +1,7 @@
 Name: plasma-theme-Windows10
 Summary: Plasma theme resembling Windows 10
 Version: 1.0
-Release: 3
+Release: 4
 Url: https://store.kde.org/p/998654/
 Source0: https://dllb2.pling.com/api/files/download/id/1523535246/s/f226e1b71312610e9d253f181f67267489e20a671e6dc425930ddcc900baf52ba2843457f7f2dddd91a1406231fe0eb724fcd850189d5ada3c941000093d7f7f/t/1578949153/c/f226e1b71312610e9d253f181f67267489e20a671e6dc425930ddcc900baf52ba2843457f7f2dddd91a1406231fe0eb724fcd850189d5ada3c941000093d7f7f/lt/download/windows_10_plasma_theme.zip
 Source1: https://github.com/B00merang-Project/Windows-10/releases/download/v0.9.9-AU/Windows.10.Icons.v0.5.tar.gz
